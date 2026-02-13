@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*CtR3tY_5EKkIUolOQKYKEg.gif" width="100%" alt="MasterHead" />
-</div>
+
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
@@ -111,7 +109,7 @@
 
 <div align="center">
   <a href="https://github.com/kesh04">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kesh04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kesh04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"  />
   </a>
   <a href="https://git.io/streak-stats">
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=kesh04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -122,23 +120,13 @@
 
 <div align="center">
   <a href="https://github.com/kesh04">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesh04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesh04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"  />
   </a>
 </div>
 
 <br />
 
-<h2 align="center">🏆 GitHub Trophies</h2>
 
-<br />
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kesh04&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</div>
-
-<br />
 
 <h2 align="center">📈 Contribution Graph</h2>
 
@@ -201,10 +189,16 @@
 
 <br />
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
+## ✨ Quote
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight" />
+</p>
 
+---
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 ---
 
 <div align="center">
