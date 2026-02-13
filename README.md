@@ -1,172 +1,98 @@
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*CtR3tY_5EKkIUolOQKYKEg.gif" width="100%" alt="MasterHead" />
+  <img src="https://miro.medium.com/v2/resize:fit:1200/format:webp/1*CtR3tY_5EKkIUolOQKYKEg.gif" width="100%" />
 </div>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-  Hi, I'm Keshana Viyanga Liyanaarachchi
-</h1>
+<h1 align="center">👋 Hi, I'm Keshana Viyanga Liyanaarachchi</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C97F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+React+Native+Specialist;ERPNEXT+Enthusiast;From+Sri+Lanka" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C97F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+React+Native;ERPNext+Enthusiast;From+Sri+Lanka" />
 </h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kesh04&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=github" alt="Profile Views" />
-  <a href="https://github.com/kesh04?tab=followers">
-    <img src="https://img.shields.io/github/followers/kesh04?label=Followers&style=for-the-badge&logo=github&color=0e75b6" alt="GitHub Followers" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=kesh04&style=for-the-badge&color=0e75b6" />
+  <img src="https://img.shields.io/github/followers/kesh04?style=for-the-badge&color=0e75b6" />
 </div>
 
-<br />
+<br/>
 
 <table align="center">
-  <tr>
-    <td width="50%">
-      <h2>🚀 About Me</h2>
-      <ul>
-        <li>🔭 Currently working on <strong>Bus Tracking System</strong></li>
-        <li>🌱 Learning <strong>ERPNEXT & Django</strong></li>
-        <li>💬 Ask me about <strong>React, React Native, ERPNEXT</strong></li>
-        <li>📫 Reach me at <strong>keshana004@gmail.com</strong></li>
-        <li>⚡ Fun fact: I love solving complex problems with elegant code</li>
-      </ul>
-      
-      <h2>🤝 Connect with Me</h2>
-      <p>
-        <a href="https://www.linkedin.com/in/keshana-viyanga-l-556918240/">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-        </a>
-        <a href="https://stackoverflow.com/users/19034817/keshana">
-          <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
-        </a>
-        <a href="mailto:keshana004@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="Coding Animation" />
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+## 🚀 About Me
+- 🔭 Working on **Bus Tracking System**
+- 🌱 Learning **ERPNext & Django**
+- 💬 Ask me about **React, React Native, ERPNext**
+- 📫 Email: **keshana004@gmail.com**
+- ⚡ Fun fact: I turn coffee into code ☕
+
+## 🤝 Connect
+<p>
+<a href="https://www.linkedin.com/in/keshana-viyanga-l-556918240/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://stackoverflow.com/users/19034817/keshana"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow"/></a>
+<a href="mailto:keshana004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/></a>
+</p>
+
+</td>
+<td width="50%">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
+</td>
+</tr>
 </table>
-
-<br />
-
-<h2 align="center">🛠️ Languages & Tools</h2>
-
-<br />
-
-<div align="center">
-  
-  ### **Frontend**
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"/>
-
-  ### **Backend & Databases**
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MSSQL"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-
-  ### **DevOps & Cloud**
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
-
-  ### **Mobile & Others**
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-  <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
-</div>
-
-<br />
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kesh04&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kesh04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesh04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="50%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kesh04&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
-<br />
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=kesh04&theme=tokyonight&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</div>
-
-<br />
-
-<div align="center">
-  
-  ### 🎯 Current Focus
-  
-  <img src="https://img.shields.io/badge/ERPNEXT-Project-2C97F7?style=for-the-badge&logo=erpnext&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bus_Tracking-System-2C97F7?style=for-the-badge&logo=bus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-Learning-2C97F7?style=for-the-badge&logo=django&logoColor=white" />
-  
-</div>
-
-<br />
-
-<div align="center">
-  
-  ### 📫 Let's Build Something Amazing Together!
-  
-  <a href="https://www.linkedin.com/in/keshana-viyanga-l-556918240/">
-    <img src="https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <br />
-  <br />
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-  
-</div>
 
 ---
 
-<div align="center">
-  <i>⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
-  
-  <br />
-  <br />
-  
-  <img src="https://raw.githubusercontent.com/kesh04/kesh04/output/snake.svg" alt="Snake animation" />
-</div>
+## 🛠️ Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+### Backend & DB
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+
+### DevOps
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kesh04&show_icons=true&theme=tokyonight" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kesh04&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesh04&layout=compact&theme=tokyonight" width="40%" />
+</p>
+
+---
+
+## 🏆 Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kesh04&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## ✨ Quote
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center"><i>"Code is like humor. When you have to explain it, it's bad."</i></p>
