@@ -182,7 +182,22 @@
 </div>
 
 <br />
-## ✨ Quote
+<div align="center">
+  <i>⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+  
+  <br />
+  <br />
+ <p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+  
+  <br />
+  
+  <sub>⭐️ From <a href="https://github.com/kesh04">kesh04</a></sub>
+</div>
+
+
+✨ Quote
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight" />
 </p>
