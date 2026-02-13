@@ -108,9 +108,7 @@
 <br />
 
 <div align="center">
-  <a href="https://github.com/kesh04">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kesh04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"  />
-  </a>
+
   <a href="https://git.io/streak-stats">
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=kesh04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
@@ -118,11 +116,7 @@
 
 <br />
 
-<div align="center">
-  <a href="https://github.com/kesh04">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesh04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"  />
-  </a>
-</div>
+
 
 <br />
 
@@ -189,27 +183,23 @@
 
 <br />
 
-## ✨ Quote
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight" />
-</p>
+<h2 align="center">📫 Let's Build Something Amazing Together!</h2>
 
----
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
----
+<br />
 
 <div align="center">
-  <i>⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
-  
-  <br />
-  <br />
-  
-  <img src="https://raw.githubusercontent.com/kesh04/kesh04/output/snake.svg" alt="Snake animation" />
-  
-  <br />
+  <a href="https://www.linkedin.com/in/keshana-viyanga-l-556918240/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:keshana004@gmail.com">
+    <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+
   
   <sub>⭐️ From <a href="https://github.com/kesh04">kesh04</a></sub>
 </div>
