@@ -182,19 +182,18 @@
 </div>
 
 <br />
+## ✨ Quote
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight" />
+</p>
 
-<h2 align="center">📫 Let's Build Something Amazing Together!</h2>
+---
 
-<br />
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/keshana-viyanga-l-556918240/">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:keshana004@gmail.com">
-    <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+<p align="center"><i>"Code is like humor. When you have to explain it, it's bad."</i></p>
 
 <br />
 
