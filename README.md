@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*CtR3tY_5EKkIUolOQKYKEg.gif" width="100%" alt="MasterHead" />
-</div>
+
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
